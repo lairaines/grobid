@@ -12,7 +12,7 @@ Research on catalogues and training is carried by Simon Gabay.
 
 ## Corpus
 
-Tests are carried on scans of the *Revue des autographes*, directes by Gabriel Charavay ([data.bnf](http://data.bnf.fr/10429866/gabriel_charavay/))
+Tests are carried on scans of the *Revue des autographes*, directed by Gabriel Charavay ([data.bnf](http://data.bnf.fr/10429866/gabriel_charavay/))
 
 ## Methodology
 
